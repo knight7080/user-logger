@@ -1,0 +1,7 @@
+{"uname":"ken667","date":1720624330345,"action":"/api/v1/user/sign-up","status":"New user added"}
+{"uname":"ken667","date":1720624331999,"action":"/api/v1/user/sign-up","status":"User already exists"}
+{"uname":"user1","date":1720624442549,"action":"/api/v1/user/log-in","status":"Successfully logged in"}
+{"uname":"user1","date":1720624442550,"action":"/api/v1/user/log-in","status":"User not found or Wrong creds"}
+{"uname":"user1","date":1720624550802,"action":"/api/v1/user/log-in","status":"Successfully logged in"}
+{"uname":"user1","date":1720624552554,"action":"/api/v1/user/log-in","status":"Successfully logged in"}
+{"uname":"user1","date":1720624566162,"action":"/api/v1/user/log-in","status":"User not found or Wrong creds"}
